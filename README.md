@@ -1,4 +1,4 @@
-# LEETCODE-DSA-PRAC
+# LEETCODE-DSA-PRAC #
 
 Daily LeetCode DSA practice in C++. 
 My goal is to improve problem-solving skills, master data structures and algorithms, and maintain consistency by committing solutions everyday.
