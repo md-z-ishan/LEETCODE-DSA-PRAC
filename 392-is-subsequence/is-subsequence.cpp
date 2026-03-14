@@ -13,7 +13,6 @@ public:
 
             j++;
         }
-
         return i == s.length();
     }
 };
