@@ -11,12 +11,15 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
