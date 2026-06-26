@@ -22,13 +22,21 @@ public:
         q.push(root);
         bool flag = true;
         while (!q.empty()) {
-            
+
             int n = q.size();
             vector<int> level(n);
             for (int i = 0; i < n; i++) {
                 auto node = q.front();
                 q.pop();
                 int index = flag ? i : n - 1 - i;
+                // or
+                //  if(flag==true){
+                //      //left to right
+                //      index=i;
+                //  }else{
+                //      //right to left
+                //      index=n-1-i;
+                //  }
                 level[index] = node->val;
                 if (node->left)
                     q.push(node->left);
