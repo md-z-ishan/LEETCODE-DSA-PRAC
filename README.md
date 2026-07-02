@@ -18,6 +18,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +91,13 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0230-kth-smallest-element-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
