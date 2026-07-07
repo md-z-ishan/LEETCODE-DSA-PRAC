@@ -30,6 +30,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0199-binary-tree-right-side-view](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0230-kth-smallest-element-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +84,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +110,8 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->
