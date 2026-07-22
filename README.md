@@ -84,6 +84,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -116,6 +117,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
+| [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -141,4 +143,8 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
