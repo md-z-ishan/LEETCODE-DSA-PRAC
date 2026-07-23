@@ -88,6 +88,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0516-longest-palindromic-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0518-coin-change-ii/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0887-super-egg-drop](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0887-super-egg-drop/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Theory
@@ -113,6 +114,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0450-delete-node-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0887-super-egg-drop](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0887-super-egg-drop/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -149,4 +151,8 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0887-super-egg-drop](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0887-super-egg-drop/) | Hard |
 <!---LeetCode Topics End-->
