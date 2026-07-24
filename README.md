@@ -72,6 +72,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0887-super-egg-drop](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0887-super-egg-drop/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
