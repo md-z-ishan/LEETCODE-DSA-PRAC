@@ -77,6 +77,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0206-reverse-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +158,8 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0887-super-egg-drop](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0887-super-egg-drop/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
