@@ -34,6 +34,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1020-number-of-enclaves/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1020-number-of-enclaves](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1020-number-of-enclaves/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -150,6 +153,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
