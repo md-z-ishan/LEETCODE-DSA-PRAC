@@ -68,6 +68,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
+| [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0518-coin-change-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -163,6 +165,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0887-super-egg-drop](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0887-super-egg-drop/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -176,4 +179,9 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
