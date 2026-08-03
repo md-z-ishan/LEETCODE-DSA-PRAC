@@ -33,6 +33,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0994-rotting-oranges](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1020-number-of-enclaves/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
@@ -62,6 +63,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
 | [1020-number-of-enclaves](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1020-number-of-enclaves/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -70,6 +72,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +107,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -137,6 +141,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0518-coin-change-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
+| [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0994-rotting-oranges](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1020-number-of-enclaves/) | Medium |
@@ -148,6 +153,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
 | [1020-number-of-enclaves](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1020-number-of-enclaves/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
