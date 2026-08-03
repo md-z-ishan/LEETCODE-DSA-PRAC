@@ -64,6 +64,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1020-number-of-enclaves/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -73,6 +74,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -154,6 +157,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1020-number-of-enclaves/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
@@ -203,4 +207,8 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0322-coin-change/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 <!---LeetCode Topics End-->
