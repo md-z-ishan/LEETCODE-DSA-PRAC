@@ -91,6 +91,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0322-coin-change/) | Medium |
+| [0343-integer-break](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0343-integer-break/) | Medium |
 | [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0518-coin-change-ii/) | Medium |
@@ -168,6 +169,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0343-integer-break](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0343-integer-break/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0887-super-egg-drop](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0887-super-egg-drop/) | Hard |
 ## Recursion
