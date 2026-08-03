@@ -32,6 +32,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0322-coin-change](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0322-coin-change/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0684-redundant-connection](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
@@ -63,6 +64,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0230-kth-smallest-element-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0684-redundant-connection](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
@@ -75,6 +77,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## String
@@ -82,6 +85,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Linked List
@@ -146,6 +150,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0994-rotting-oranges](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0994-rotting-oranges/) | Medium |
@@ -160,6 +165,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
 | [0684-redundant-connection](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0684-redundant-connection/) | Medium |
+| [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1020-number-of-enclaves/) | Medium |
@@ -215,4 +221,8 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 <!---LeetCode Topics End-->
