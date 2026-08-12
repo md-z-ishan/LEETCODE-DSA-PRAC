@@ -11,6 +11,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -44,6 +45,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -58,6 +60,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -134,6 +137,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0450-delete-node-in-a-bst/) | Medium |
