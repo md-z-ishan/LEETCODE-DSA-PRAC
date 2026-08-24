@@ -138,6 +138,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0098-validate-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -151,6 +152,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0014-longest-common-prefix/) | Easy |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -237,4 +239,8 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0014-longest-common-prefix/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
