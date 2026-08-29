@@ -79,6 +79,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0036-valid-sudoku/) | Medium |
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -160,6 +161,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0014-longest-common-prefix](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0027-remove-element/) | Easy |
+| [0036-valid-sudoku](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
@@ -193,6 +195,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0036-valid-sudoku/) | Medium |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0994-rotting-oranges/) | Medium |
