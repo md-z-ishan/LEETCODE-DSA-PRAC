@@ -164,6 +164,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0036-valid-sudoku](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0042-trapping-rain-water/) | Hard |
+| [0047-permutations-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0047-permutations-ii/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -210,6 +211,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0040-combination-sum-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0047-permutations-ii/) | Medium |
 | [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -250,6 +252,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0047-permutations-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
