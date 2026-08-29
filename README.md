@@ -162,6 +162,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0036-valid-sudoku/) | Medium |
+| [0040-combination-sum-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
@@ -208,6 +209,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0040-combination-sum-ii/) | Medium |
 | [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
