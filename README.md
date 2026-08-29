@@ -155,6 +155,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0004-median-of-two-sorted-arrays](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0322-coin-change](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0322-coin-change/) | Medium |
@@ -248,6 +249,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
