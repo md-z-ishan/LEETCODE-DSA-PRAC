@@ -80,6 +80,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | ------- | ------- |
 | [0001-two-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0001-two-sum/) | Easy |
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
+| [0219-contains-duplicate-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
@@ -163,6 +164,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0322-coin-change](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0518-coin-change-ii/) | Medium |
@@ -218,6 +220,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
