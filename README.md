@@ -101,11 +101,13 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0042-trapping-rain-water/) | Hard |
 | [0322-coin-change](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0322-coin-change/) | Medium |
 | [0343-integer-break](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0343-integer-break/) | Medium |
 | [0494-target-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0494-target-sum/) | Medium |
@@ -157,6 +159,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0014-longest-common-prefix](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0130-surrounded-regions/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -173,6 +176,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0042-trapping-rain-water/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -253,6 +257,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0011-container-with-most-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
