@@ -82,6 +82,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0036-valid-sudoku](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0036-valid-sudoku/) | Medium |
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0242-valid-anagram/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0924-minimize-malware-spread/) | Hard |
@@ -91,6 +92,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0014-longest-common-prefix/) | Easy |
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
+| [0242-valid-anagram](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0242-valid-anagram/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -253,6 +255,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0047-permutations-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0242-valid-anagram/) | Easy |
 | [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
