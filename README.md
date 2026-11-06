@@ -19,6 +19,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0230-kth-smallest-element-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -53,6 +54,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0230-kth-smallest-element-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -66,6 +68,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0199-binary-tree-right-side-view](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0733-flood-fill/) | Easy |
@@ -150,6 +153,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0209-minimum-size-subarray-sum](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0887-super-egg-drop](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0887-super-egg-drop/) | Hard |
