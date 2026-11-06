@@ -99,6 +99,7 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | [0127-word-ladder](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0242-valid-anagram/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0649-dota2-senate](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0649-dota2-senate/) | Medium |
 | [0721-accounts-merge](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0721-accounts-merge/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -289,8 +290,13 @@ I am working on a 30 Day DSA Challenge and i will further go with the 100 day ch
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0011-container-with-most-water/) | Medium |
+| [0649-dota2-senate](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0649-dota2-senate/) | Medium |
 ## Cartesian Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0654-maximum-binary-tree/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/md-z-ishan/LEETCODE-DSA-PRAC/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
